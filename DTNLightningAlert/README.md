@@ -2,14 +2,14 @@
 
 ## Steps on how to use:
 
-1) Run the solution using Visual Studio
-2) Input the file path for Lightning Data JSON file. 
-3) Input the file path for Assets Data JSON file. 
+- Run the solution using Visual Studio
+- Input the file path for Lightning Data JSON file. 
+- Input the file path for Assets Data JSON file. 
     - NOTE FOR FILE PATH INPUTS: If you input null, blank or invalid file path system will not crash but it will prompt you again and again until you input a correct and valid file path.
                                 This is to make the system dynamic and can read anyfile
-4) Let the system process the data.
-5) After the system process the data, the alerts will be shown in the command prompt.
-6) System will let you choose to run the process again. Please type 'Y' if you want to Continue and repeat the process again and choose another files, else press any key to Quit.
+- Let the system process the data.
+- After the system process the data, the alerts will be shown in the command prompt.
+- System will let you choose to run the process again. Please type 'Y' if you want to Continue and repeat the process again and choose another files, else press any key to Quit.
 
 ### Answer to the additional Questions:
 - What is the [time complexity](https://en.wikipedia.org/wiki/Time_complexity) for determining if a strike has occurred for a particular asset?
